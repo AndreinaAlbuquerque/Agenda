@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="Phonebook"></string>
+    <string name="Name"></string>
+    <string name="Telephone"></string>
+    <string name="Record"></string>
+    <string name="Consult"></string>
+    <string name="close"></string>
+</resources>
